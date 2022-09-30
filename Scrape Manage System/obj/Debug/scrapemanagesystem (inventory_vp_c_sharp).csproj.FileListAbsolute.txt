@@ -1,0 +1,104 @@
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe.config
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).pdb
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csprojAssemblyReference.cache
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.cardboard.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.cars_parts.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.change_pin.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.customer.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.driver_details.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.main_menu.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.plastic.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.scrape.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.supplier.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userlogin2.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userselection1.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.waste.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.wood.resources
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe
+C:\Users\Abdullah\Desktop\VP project\scrapemanagesystem (inventory_vp_c_sharp)\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).pdb
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe.config
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).pdb
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.adminLogin.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AdminPanel.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.cardboard.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.CarParts.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.customer.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.DriverDetails.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.plastic.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.Properties.Resources.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.scrape.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.SupplierDetails.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userLogin.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.UserPanel.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userselection1.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userSignUp.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.waste.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.wood.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csproj.GenerateResource.cache
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csproj.CoreCompileInputs.cache
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).pdb
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csprojAssemblyReference.cache
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AddCarPart.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AddItem.resources
+E:\bukc\5th Sem\Visual Programming\Labs\VP project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.ChangePinU.resources
+D:\BSCS 5A\vp\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe.config
+D:\BSCS 5A\vp\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe
+D:\BSCS 5A\vp\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).pdb
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csprojAssemblyReference.cache
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AddCarPart.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AddItem.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.adminLogin.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AdminPanel.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.cardboard.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.CarParts.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.ChangePinA.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.ChangePinU.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.customer.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.DriverDetails.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.plastic.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.Properties.Resources.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.scrape.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.SupplierDetails.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userLogin.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.UserPanel.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userselection1.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userSignUp.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.waste.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.wood.resources
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csproj.GenerateResource.cache
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csproj.CoreCompileInputs.cache
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe
+D:\BSCS 5A\vp\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).pdb
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe.config
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\bin\Debug\scrapemanagesystem (inventory_vp_c_sharp).pdb
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csprojAssemblyReference.cache
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AddCarPart.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AddItem.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.adminLogin.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.AdminPanel.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.cardboard.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.CarParts.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.ChangePinA.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.ChangePinU.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.customer.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.DriverDetails.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.plastic.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.Properties.Resources.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.scrape.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.SupplierDetails.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userLogin.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.UserPanel.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userselection1.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.userSignUp.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.waste.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem__inventory_vp_c_sharp_.wood.resources
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).csproj.GenerateResource.cache
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).exe
+E:\bukc\5th Sem\Visual Programming\Labs\Project\Scrape Manage System\obj\Debug\scrapemanagesystem (inventory_vp_c_sharp).pdb
