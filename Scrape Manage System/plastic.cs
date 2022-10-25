@@ -13,7 +13,7 @@ namespace scrapemanagesystem__inventory_vp_c_sharp_
 {
     public partial class plastic : Form
     {
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-1M7L2SI\\FAIZANSQL;Initial Catalog=Project;User ID=sa;Password=fizzySQL");
+        SqlConnection con = new SqlConnection(""); // Add Connection String To SQL Server here
         SqlDataReader rdr;
         public plastic()
         {
